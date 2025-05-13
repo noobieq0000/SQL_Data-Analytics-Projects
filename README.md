@@ -13,7 +13,7 @@ Questions behind the project to answer through my SQL queries were:
 1. What are the highest-paying data engineer jobs? 
 2. What are the required skills for top-paying data engineer jobs?
 3. What are the most in-demand skills for data engineer?
-4. What are the tops skills based on salary?
+4. What are the lowest paying job based on skills?
 5. What are the most optimal skills to learn?
 
 # Tools I Used
